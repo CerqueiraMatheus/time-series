@@ -5,7 +5,7 @@
 ## Organização do repositório
 
 - Os outputs estão sob a pasta ``plots``;
-- Os datasets estão disponíveis no Google Drive;
+- Os datasets estão disponíveis no [Google Drive](https://drive.google.com/drive/folders/1SBpzhIc8eOsKzXFBaxJPh8FWslYtlI-T);
 - O trabalho está desenvolvido no arquivo ``TimeSeries.ipynb``.
 
 ## Autoria
